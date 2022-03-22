@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1418658430 source:c:\users\eduardo\desktop\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\main.cpp
+	<iostream>
+	"Estruturas.h"
+	"Funcoes.h"
+
+1418654049 c:\users\eduardo\desktop\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\estruturas.h
+
+1418654049 c:\users\eduardo\desktop\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\funcoes.h
+	"Estruturas.h"
+
+1418654226 source:c:\users\eduardo\desktop\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\funcoes.cpp
+	<iostream>
+	"Estruturas.h"
+
+1418650627 source:c:\users\user\copy\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\funcoes.cpp
+	<iostream>
+	"Estruturas.h"
+
+1418650450 c:\users\user\copy\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\estruturas.h
+
+1418654832 source:c:\users\user\copy\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\main.cpp
+	<iostream>
+	"Estruturas.h"
+	"Funcoes.h"
+
+1418650451 c:\users\user\copy\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\funcoes.h
+	"Estruturas.h"
+
+1418654227 source:d:\arquivos\documentos\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\funcoes.cpp
+	<iostream>
+	"Estruturas.h"
+
+1418654050 d:\arquivos\documentos\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\estruturas.h
+
+1418658432 source:d:\arquivos\documentos\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\main.cpp
+	<iostream>
+	"Estruturas.h"
+	"Funcoes.h"
+
+1418654051 d:\arquivos\documentos\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\funcoes.h
+	"Estruturas.h"
+
+1418647027 source:f:\arquivos\documentos\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\funcoes.cpp
+	<iostream>
+	"Estruturas.h"
+
+1418646850 f:\arquivos\documentos\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\estruturas.h
+
+1418651232 source:f:\arquivos\documentos\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\main.cpp
+	<iostream>
+	"Estruturas.h"
+	"Funcoes.h"
+
+1418646851 f:\arquivos\documentos\faculdade\disciplinas\2 - semestre\aed ii\grafos e a sua implementação por meio de listas de adjacência usando estruturas auto-referenciáveis\funcoes.h
+	"Estruturas.h"
+
